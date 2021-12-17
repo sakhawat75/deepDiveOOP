@@ -1,6 +1,6 @@
 public class Character {
 
-    private String name;
+    public String name;
     private String species;
 
     public Character(String name, String species)

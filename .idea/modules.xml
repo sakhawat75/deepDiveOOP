@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/madecraft-oop.iml" filepath="$PROJECT_DIR$/madecraft-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deepDiveOOP.iml" filepath="$PROJECT_DIR$/deepDiveOOP.iml" />
     </modules>
   </component>
 </project>
